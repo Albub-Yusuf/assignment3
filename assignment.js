@@ -1,4 +1,6 @@
 
+// https://github.com/Albub-Yusuf/assignment3
+
 // Kilometers to Meters conversion
 
 function kilometerToMeter(km){
@@ -30,9 +32,6 @@ function budgetCalculator(watches,phones,laptops){
     }
 
 }
-
-var budget = budgetCalculator(10,10,10);
-console.log(budget);
 
 
 //Hotel Cost
